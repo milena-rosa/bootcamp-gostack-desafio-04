@@ -1,0 +1,40 @@
+posts: [
+      {
+        id: 1,
+        author: {
+          name: 'Benjamin Parker',
+          avatar: '',
+        },
+        date: '04 Jun 2019',
+        content: 'Pessoal, alguém sabe se a Rocketseat está contratando.',
+        comments: [
+          {
+            id: 1,
+            author: {
+              name: 'Cesar Rincon',
+              avatar: '',
+            },
+            content: 'Conteúdo do comentário.',
+          },
+        ],
+      },
+      {
+        id: 2,
+        author: {
+          name: 'Collins Lesulie',
+          avatar: '',
+        },
+        date: '01 Jun 2019',
+        content: 'conteúdo da mensagem.',
+        comments: [
+          {
+            id: 1,
+            author: {
+              name: 'Cesar Rincon',
+              avatar: '',
+            },
+            content: 'Conteúdo do comentário.',
+          },
+        ],
+      },
+    ],

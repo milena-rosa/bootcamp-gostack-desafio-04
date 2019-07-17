@@ -1,0 +1,28 @@
+.header_box {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background: #3b5998;
+  width: 100%;
+  height: 64px;
+}
+
+.profile p {
+  padding-right: 9px;
+}
+
+.profile img {
+  width: 24px;
+  height: 24px;
+}
+
+.profile {
+  display: flex;
+  align-items: center;
+}
+
+.profile_title {
+  font-weight: bold;
+  font-size: 15px;
+  color: #fff;
+}
